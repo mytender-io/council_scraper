@@ -138,7 +138,7 @@ graph TD
 ### **Quick Start**
 ```bash
 # 1. Clone and navigate
-cd scraper-professionalsecurity
+cd uk-premises-licence-scraper
 
 # 2. Install dependencies  
 uv sync
